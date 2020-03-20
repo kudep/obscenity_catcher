@@ -1,5 +1,7 @@
-# obscenity_catcher
-Curses catcher for Russian language
+# Latest version link
+
+This project outdated, you can find new version at the link https://github.com/kudep/rus_rule_based_insult_classifier .
+
 
 
 # Example
